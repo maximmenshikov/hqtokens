@@ -97,7 +97,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="copy &quot;$(TargetPath)&quot; &quot;$(SolutionDir)Release\&quot;"
+				CommandLine=""
 			/>
 			<DeploymentTool
 				ForceDirty="-1"
